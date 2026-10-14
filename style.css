@@ -1,0 +1,27 @@
+h1{
+    color: goldenrod;
+}
+
+body{
+    text-align: center;
+    background-image: url(/images/table.png);
+    background-size: cover;
+    color: white;
+    font-weight: bolder;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+#str-button,#new-button{
+    margin: 5px;
+    width: 150px;
+    color: #016f32;
+    border: 0px;
+    background-color: goldenrod;
+    padding: 5px 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 3px;
+}
